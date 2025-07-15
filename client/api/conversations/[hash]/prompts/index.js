@@ -1,4 +1,4 @@
-import { createPrompt } from '../../../../../server/src/prompts/controller.js';
+import { createPrompt } from '../../../../server/src/prompts/controller.js';
 
 export default async function handler(req, res) {
   if (req.method === 'POST') {
