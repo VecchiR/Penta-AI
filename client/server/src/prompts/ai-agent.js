@@ -19,7 +19,7 @@ export async function chatWithGemini({ history = [], promptData }) {
     .sendMessage({ message: getPromptText(promptData) })
     .then((response) => response.text)
     .catch((error) => {
-      throw new error("error while generating a gemini answer!", {
+      throw new Error("error while generating a gemini answer!", {
         cause: error,
       });
     });
