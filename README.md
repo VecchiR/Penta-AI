@@ -2,6 +2,9 @@
 
 > Bringing structure to the chaos of prompt engineering - Check out the [live version here](https://penta-ai-three.vercel.app/)
 
+<img width="1616" height="896" alt="image" src="https://github.com/user-attachments/assets/41b677d7-7037-4af6-8af7-219b2bbf5890" />
+
+
 ## Features
 
 - [x] [Basic functionality outlined in chingu's readme](https://github.com/chingu-voyages/voyage-project-aihelper?tab=readme-ov-file#functionality)
