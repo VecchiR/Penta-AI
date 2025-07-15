@@ -4,7 +4,7 @@ export {
   getConversation as getChatHistory,
 };
 
-const BASE_URL = "/api/v1";
+const BASE_URL = "/api";
 
 export async function createConversation({
   constraint,
