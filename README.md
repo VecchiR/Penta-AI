@@ -1,6 +1,6 @@
 # Penta AI
 
-> Bringing structure to the chaos of prompt engineering - Check out the live version [here](https://v54-tier3-team-34-production.up.railway.app/)
+> Bringing structure to the chaos of prompt engineering - Check out the [live version here](https://penta-ai-three.vercel.app/)
 
 ## Features
 
