@@ -1,4 +1,4 @@
-import { getConversation } from '../../../../server/src/conversations/controller.js';
+import { getConversation } from '../../server/src/conversations/controller.js';
 
 export default async function handler(req, res) {
   if (req.method === 'GET') {

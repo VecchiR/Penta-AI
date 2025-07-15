@@ -1,4 +1,4 @@
-import { createConversation } from '../../../../server/src/conversations/controller.js';
+import { createConversation } from '../../server/src/conversations/controller.js';
 
 export default async function handler(req, res) {
   if (req.method === 'POST') {
